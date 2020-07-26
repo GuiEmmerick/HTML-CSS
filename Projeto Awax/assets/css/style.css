@@ -429,3 +429,18 @@ header{
 .section_team_social a:hover{
     background-color: #b28756;
 }
+
+.section_clients{
+    max-width: 1140px;
+}
+.section_clients .slide{
+    width: 800px;
+    height: auto;
+}
+
+.section_clients .slide_area{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
